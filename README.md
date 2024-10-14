@@ -93,4 +93,8 @@ cd wine-quality-classification)
   
 (jupyter notebook notebooks/)
 
+### **Reference:**
+
+*Machine Learning Using Python. Author: Mighty Itauma Itauma, PhD, Published August 16, 2024. (https://amightyo.quarto.pub/machine-learningusing-python/)*
+
 
