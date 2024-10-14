@@ -1,7 +1,8 @@
 ## **Title: Classification of Wine quality with the Taste of Machine Learning Models**
 
 **Our Project is based on classifying the wine quality based on its chemical compositions with various classifications and predict the best model for the given dataset. The dataset is from UCI machine learning repository 
-that consist of both red and white quality wines.** Link 
+that consist of both red and white quality wines.** 
+
 
 ### **Contents of Paper:**
 
@@ -16,8 +17,8 @@ that consist of both red and white quality wines.** Link
 
 ### **Project Overview:**
 
-This Machine learning paper is about wine quality classification model using a combined dataset of both Redand white wines from UCI machine learning repositorywhere the target variable is ‘Quality’. 
-The data used in this dataset is from Portugal Vinho Verde wines. Our aim is to classify Wine quality influenced by its chemical compositions like acidity, alcohol, density, chlorides, PHetc., using machine 
+This Machine learning paper is about wine quality classification model using a combined dataset of both Red and white wines from UCI machine learning repository where the target variable is ‘Quality’. 
+The data used in this dataset is from Portugal Vinho Verde wines. Our aim is to classify Wine quality influenced by its chemical compositions like acidity, alcohol, density, chlorides, PH etc., using machine 
 learning techniques. The quality of the wines is scaled from 0 to 10 with 0 being very bad to 10 being very good based on its chemical compositions used in different wines. This quality assessment helps both 
 producers prepare, and consumers take good quality of wine. The producers can supply good quality certified wines to the consumer market.
 
@@ -76,6 +77,7 @@ of evaluation metrics
 * Analyze other machine learning algorithms like ensemble methods and deep learning models to enhancing accuracy.
 * Explore other techniques like regression method with different approach.
 
+
 ### **Steps to RUN the code**
 
 * **Clone the Repository**
@@ -88,6 +90,7 @@ cd wine-quality-classification)
 (pip install -r requirements.txt)
 
 * Run in Jupyter notebook
+  
 (jupyter notebook notebooks/)
 
 
